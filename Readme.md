@@ -8,4 +8,7 @@ It is implemented in Logisim, a free Java program for simulating circuits, so to
 
 If you have a problem opening Logisim in macOS, you can right-click on the Logisim logo, select Show Package Contents, open Contents/Resources/Java, and run logisim.jar.
 
-![](./MainCircuit.png)  ![](./ImplementedCircuits.png)
+
+|      Main Circuit      |       Implemented Circuits     |
+|------------------------|--------------------------------|
+| ![](./MainCircuit.png) | ![](./ImplementedCircuits.png) |
